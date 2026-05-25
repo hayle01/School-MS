@@ -1,0 +1,6 @@
+{
+  "name": "dugsiga-shared",
+  "version": "1.0.0",
+  "description": "Shared constants and types for Dugsiga SMS",
+  "main": "constants.js"
+}
